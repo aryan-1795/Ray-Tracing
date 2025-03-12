@@ -10,3 +10,5 @@ Controls:
 1. Press C or shift + C to increase or decrease the number of wall reflections. Initial value = 0.
 2. Press R or shift + R to increase or decrease the wall-reflection coefficient. Initial value = 1 (Range: 0 - 1).
 3. Move the cursor to move the light source.
+
+No light bounces off the object. Think of it as a vantablack-painted ball.
